@@ -23,7 +23,7 @@ class Primenumber
             		int temp=i;
 
 			int count=0;
-		        for(int j=1;j<b;j++)
+		        for(int j=1;j<=b;j++)
 		        {
 	
 	                if(temp%j==0)
